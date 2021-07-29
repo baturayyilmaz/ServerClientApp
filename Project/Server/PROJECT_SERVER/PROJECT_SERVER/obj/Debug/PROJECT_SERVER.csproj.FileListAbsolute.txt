@@ -1,0 +1,9 @@
+C:\Users\Baturay\source\repos\PROJECT_SERVER\PROJECT_SERVER\bin\Debug\PROJECT_SERVER.exe.config
+C:\Users\Baturay\source\repos\PROJECT_SERVER\PROJECT_SERVER\bin\Debug\PROJECT_SERVER.exe
+C:\Users\Baturay\source\repos\PROJECT_SERVER\PROJECT_SERVER\bin\Debug\PROJECT_SERVER.pdb
+C:\Users\Baturay\source\repos\PROJECT_SERVER\PROJECT_SERVER\obj\Debug\PROJECT_SERVER.csprojAssemblyReference.cache
+C:\Users\Baturay\source\repos\PROJECT_SERVER\PROJECT_SERVER\obj\Debug\PROJECT_SERVER.Form1.resources
+C:\Users\Baturay\source\repos\PROJECT_SERVER\PROJECT_SERVER\obj\Debug\PROJECT_SERVER.Properties.Resources.resources
+C:\Users\Baturay\source\repos\PROJECT_SERVER\PROJECT_SERVER\obj\Debug\PROJECT_SERVER.csproj.GenerateResource.cache
+C:\Users\Baturay\source\repos\PROJECT_SERVER\PROJECT_SERVER\obj\Debug\PROJECT_SERVER.exe
+C:\Users\Baturay\source\repos\PROJECT_SERVER\PROJECT_SERVER\obj\Debug\PROJECT_SERVER.pdb

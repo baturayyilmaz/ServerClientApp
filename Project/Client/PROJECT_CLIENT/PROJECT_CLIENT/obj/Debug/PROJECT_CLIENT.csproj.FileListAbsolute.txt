@@ -1,0 +1,9 @@
+C:\Users\Baturay\source\repos\PROJECT_CLIENT\PROJECT_CLIENT\obj\Debug\PROJECT_CLIENT.csprojAssemblyReference.cache
+C:\Users\Baturay\source\repos\PROJECT_CLIENT\PROJECT_CLIENT\obj\Debug\PROJECT_CLIENT.Form1.resources
+C:\Users\Baturay\source\repos\PROJECT_CLIENT\PROJECT_CLIENT\obj\Debug\PROJECT_CLIENT.Properties.Resources.resources
+C:\Users\Baturay\source\repos\PROJECT_CLIENT\PROJECT_CLIENT\obj\Debug\PROJECT_CLIENT.csproj.GenerateResource.cache
+C:\Users\Baturay\source\repos\PROJECT_CLIENT\PROJECT_CLIENT\bin\Debug\PROJECT_CLIENT.exe.config
+C:\Users\Baturay\source\repos\PROJECT_CLIENT\PROJECT_CLIENT\bin\Debug\PROJECT_CLIENT.exe
+C:\Users\Baturay\source\repos\PROJECT_CLIENT\PROJECT_CLIENT\bin\Debug\PROJECT_CLIENT.pdb
+C:\Users\Baturay\source\repos\PROJECT_CLIENT\PROJECT_CLIENT\obj\Debug\PROJECT_CLIENT.exe
+C:\Users\Baturay\source\repos\PROJECT_CLIENT\PROJECT_CLIENT\obj\Debug\PROJECT_CLIENT.pdb
